@@ -6,7 +6,7 @@ const SURPRISES = [
     id: 1,
     label: 'A Sweet Wish',
     caption: 'May your life be as sweet as cake!',
-    image: 'https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://drive.google.com/drive/folders/1ejavi-YQCI0WMleH5V_vj0oRQdU9Zl5A?usp=drive_link',
     color: 'from-pink-400 to-rose-500',
   },
   {
